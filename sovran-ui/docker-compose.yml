@@ -1,0 +1,17 @@
+version: '3'
+services:
+  dev:
+    build: .
+    stdin_open: true
+    tty: true
+    ports:
+      - "8080:8080"
+    volumes: 
+      - "app/node_modules"
+      - ".:/app"
+    networks:
+      - sovran-network
+
+networks:
+  sovran-network:
+    external : true

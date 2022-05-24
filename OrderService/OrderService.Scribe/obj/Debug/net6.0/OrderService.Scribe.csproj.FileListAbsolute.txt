@@ -1,0 +1,15 @@
+C:\Users\eoinf\OneDrive\Desktop\College Y4\Project Y4\Repos\OrderService\OrderService.Scribe\bin\Debug\net6.0\OrderService.Scribe.deps.json
+C:\Users\eoinf\OneDrive\Desktop\College Y4\Project Y4\Repos\OrderService\OrderService.Scribe\bin\Debug\net6.0\OrderService.Scribe.dll
+C:\Users\eoinf\OneDrive\Desktop\College Y4\Project Y4\Repos\OrderService\OrderService.Scribe\bin\Debug\net6.0\ref\OrderService.Scribe.dll
+C:\Users\eoinf\OneDrive\Desktop\College Y4\Project Y4\Repos\OrderService\OrderService.Scribe\bin\Debug\net6.0\OrderService.Scribe.pdb
+C:\Users\eoinf\OneDrive\Desktop\College Y4\Project Y4\Repos\OrderService\OrderService.Scribe\bin\Debug\net6.0\OrderService.Model.dll
+C:\Users\eoinf\OneDrive\Desktop\College Y4\Project Y4\Repos\OrderService\OrderService.Scribe\bin\Debug\net6.0\OrderService.Model.pdb
+C:\Users\eoinf\OneDrive\Desktop\College Y4\Project Y4\Repos\OrderService\OrderService.Scribe\obj\Debug\net6.0\OrderService.Scribe.csproj.AssemblyReference.cache
+C:\Users\eoinf\OneDrive\Desktop\College Y4\Project Y4\Repos\OrderService\OrderService.Scribe\obj\Debug\net6.0\OrderService.Scribe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eoinf\OneDrive\Desktop\College Y4\Project Y4\Repos\OrderService\OrderService.Scribe\obj\Debug\net6.0\OrderService.Scribe.AssemblyInfoInputs.cache
+C:\Users\eoinf\OneDrive\Desktop\College Y4\Project Y4\Repos\OrderService\OrderService.Scribe\obj\Debug\net6.0\OrderService.Scribe.AssemblyInfo.cs
+C:\Users\eoinf\OneDrive\Desktop\College Y4\Project Y4\Repos\OrderService\OrderService.Scribe\obj\Debug\net6.0\OrderService.Scribe.csproj.CoreCompileInputs.cache
+C:\Users\eoinf\OneDrive\Desktop\College Y4\Project Y4\Repos\OrderService\OrderService.Scribe\obj\Debug\net6.0\OrderService.Scribe.csproj.CopyComplete
+C:\Users\eoinf\OneDrive\Desktop\College Y4\Project Y4\Repos\OrderService\OrderService.Scribe\obj\Debug\net6.0\OrderService.Scribe.dll
+C:\Users\eoinf\OneDrive\Desktop\College Y4\Project Y4\Repos\OrderService\OrderService.Scribe\obj\Debug\net6.0\ref\OrderService.Scribe.dll
+C:\Users\eoinf\OneDrive\Desktop\College Y4\Project Y4\Repos\OrderService\OrderService.Scribe\obj\Debug\net6.0\OrderService.Scribe.pdb

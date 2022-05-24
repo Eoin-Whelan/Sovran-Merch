@@ -1,0 +1,11 @@
+C:\Users\eoinf\OneDrive\Desktop\College Y4\Project Y4\Repos\OrderService\OrderService.Model\bin\Debug\net6.0\OrderService.Model.deps.json
+C:\Users\eoinf\OneDrive\Desktop\College Y4\Project Y4\Repos\OrderService\OrderService.Model\bin\Debug\net6.0\OrderService.Model.dll
+C:\Users\eoinf\OneDrive\Desktop\College Y4\Project Y4\Repos\OrderService\OrderService.Model\bin\Debug\net6.0\ref\OrderService.Model.dll
+C:\Users\eoinf\OneDrive\Desktop\College Y4\Project Y4\Repos\OrderService\OrderService.Model\bin\Debug\net6.0\OrderService.Model.pdb
+C:\Users\eoinf\OneDrive\Desktop\College Y4\Project Y4\Repos\OrderService\OrderService.Model\obj\Debug\net6.0\OrderService.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eoinf\OneDrive\Desktop\College Y4\Project Y4\Repos\OrderService\OrderService.Model\obj\Debug\net6.0\OrderService.Model.AssemblyInfoInputs.cache
+C:\Users\eoinf\OneDrive\Desktop\College Y4\Project Y4\Repos\OrderService\OrderService.Model\obj\Debug\net6.0\OrderService.Model.AssemblyInfo.cs
+C:\Users\eoinf\OneDrive\Desktop\College Y4\Project Y4\Repos\OrderService\OrderService.Model\obj\Debug\net6.0\OrderService.Model.csproj.CoreCompileInputs.cache
+C:\Users\eoinf\OneDrive\Desktop\College Y4\Project Y4\Repos\OrderService\OrderService.Model\obj\Debug\net6.0\OrderService.Model.dll
+C:\Users\eoinf\OneDrive\Desktop\College Y4\Project Y4\Repos\OrderService\OrderService.Model\obj\Debug\net6.0\ref\OrderService.Model.dll
+C:\Users\eoinf\OneDrive\Desktop\College Y4\Project Y4\Repos\OrderService\OrderService.Model\obj\Debug\net6.0\OrderService.Model.pdb

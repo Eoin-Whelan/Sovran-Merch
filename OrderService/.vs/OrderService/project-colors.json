@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "36a8a899-bce5-4c3f-9300-0a533ad94d79": {
+      "ProjectGuid": "36a8a899-bce5-4c3f-9300-0a533ad94d79",
+      "DisplayName": "OrderService",
+      "ColorIndex": 0
+    },
+    "8b6b0359-8eb3-4002-a880-71db0d74969b": {
+      "ProjectGuid": "8b6b0359-8eb3-4002-a880-71db0d74969b",
+      "DisplayName": "Model",
+      "ColorIndex": 1
+    },
+    "d90a3705-64b4-43e5-b5c4-b558489015b6": {
+      "ProjectGuid": "d90a3705-64b4-43e5-b5c4-b558489015b6",
+      "DisplayName": "OrderService.Model",
+      "ColorIndex": 2
+    },
+    "18479c1c-b1f8-4363-aa27-1d94c0c8b1bd": {
+      "ProjectGuid": "18479c1c-b1f8-4363-aa27-1d94c0c8b1bd",
+      "DisplayName": "OrderService.Scribe",
+      "ColorIndex": 3
+    },
+    "09b33fc7-5807-403c-b898-e01d48027329": {
+      "ProjectGuid": "09b33fc7-5807-403c-b898-e01d48027329",
+      "DisplayName": "OrderService.Utilities",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
